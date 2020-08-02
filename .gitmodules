@@ -1,0 +1,48 @@
+[submodule ".local/src/st"]
+	path = .local/src/st
+	url = https://github.com/congddang/st.git
+[submodule ".local/src/dmenu"]
+	path = .local/src/dmenu
+	url = https://github.com/congddang/dmenu.git
+[submodule ".local/src/dwm"]
+	path = .local/src/dwm
+	url = https://github.com/congddang/dwm.git
+[submodule ".local/src/dwmblocks"]
+	path = .local/src/dwmblocks
+	url = https://github.com/congddang/dwmblocks.git
+[submodule ".config/mpv/scripts/mpvSockets"]
+	path = .config/mpv/scripts/mpvSockets
+	url = https://github.com/wis/mpvSockets
+[submodule ".config/nvim/plugged/goyo.vim"]
+	path = .config/nvim/plugged/goyo.vim
+	url = https://github.com/junegunn/goyo.vim
+[submodule ".config/nvim/plugged/i3-vim-syntax"]
+	path = .config/nvim/plugged/i3-vim-syntax
+	url = https://github.com/PotatoesMaster/i3-vim-syntax
+[submodule ".config/nvim/plugged/nerdtree"]
+	path = .config/nvim/plugged/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule ".config/nvim/plugged/sxhkd-vim"]
+	path = .config/nvim/plugged/sxhkd-vim
+	url = https://github.com/kovetskiy/sxhkd-vim
+[submodule ".config/nvim/plugged/vim-airline"]
+	path = .config/nvim/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".config/nvim/plugged/vim-commentary"]
+	path = .config/nvim/plugged/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule ".config/nvim/plugged/vim-css-color"]
+	path = .config/nvim/plugged/vim-css-color
+	url = https://github.com/ap/vim-css-color
+[submodule ".config/nvim/plugged/vim-surround"]
+	path = .config/nvim/plugged/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule ".config/nvim/plugged/vimagit"]
+	path = .config/nvim/plugged/vimagit
+	url = https://github.com/jreybert/vimagit
+[submodule ".config/nvim/plugged/vimling"]
+	path = .config/nvim/plugged/vimling
+	url = https://github.com/lukesmithxyz/vimling
+[submodule ".config/nvim/plugged/vimwiki"]
+	path = .config/nvim/plugged/vimwiki
+	url = https://github.com/vimwiki/vimwiki

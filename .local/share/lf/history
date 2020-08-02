@@ -1,0 +1,19 @@
+: mkdir Music
+: touch mpd.fb
+: mkdir playlist
+: mkdir Documents
+: mkdir Tex
+: mkdir Projects
+: mkdir Samples
+: unzip -l cw-omnibus-master.zip 
+$ unzip -l cw-omnibus-master.zip 
+$ unzip cw-omnibus-master.zip -d
+: sync
+$ unzip -d ./cw-omnibus cw-omnibus-master.zip 
+$ unzip -d ./ cw-omnibus-master.zip 
+$ myip
+: unzip -d ./matlab_R2018b_glnxa64 matlab_R2018b_glnxa64.zip 
+$ unzip -d ./matlab_R2018b_glnxa64 matlab_R2018b_glnxa64.zip 
+: mkd Up
+: $mkd UP
+: mkdir Upload
