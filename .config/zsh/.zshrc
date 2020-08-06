@@ -71,6 +71,8 @@ bindkey -s '^a' 'bc -l\n'
 
 bindkey -s '^f' 'cd "$(dirname "$(fzf)")"\n'
 
+bindkey -s '^u' 'du -ah --max-depth 1\n'
+
 bindkey '^[[P' delete-char
 
 # Edit line in vim with ctrl-e:
