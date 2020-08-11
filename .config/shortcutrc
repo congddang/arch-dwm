@@ -28,3 +28,6 @@ cfk="$EDITOR ${XDG_CONFIG_HOME:-$HOME/.config}/sxhkd/sxhkdrc" \
 cfi="$EDITOR ${XDG_CONFIG_HOME:-$HOME/.config}/i3/config" \
 cfb="$EDITOR ${XDG_CONFIG_HOME:-$HOME/.config}/i3blocks/config" \
 cff="$EDITOR ${XDG_CONFIG_HOME:-$HOME/.config}/fontconfig/fonts.conf" \
+en="$EDITOR ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/Note/arch-note.rmd" \
+on="$READER ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/Note/arch-note.pdf" \
+eb="$EDITOR ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/Latex/Template/cong.bib" \
