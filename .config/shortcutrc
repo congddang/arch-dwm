@@ -32,3 +32,4 @@ cff="$EDITOR ${XDG_CONFIG_HOME:-$HOME/.config}/fontconfig/fonts.conf" \
 en="$EDITOR ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/Note/arch-note.rmd" \
 on="$READER ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/Note/arch-note.pdf" \
 eb="$EDITOR ${XDG_DOCUMENTS_DIR:-$HOME/Documents}/LaTex/Template/cong.bib" \
+rmc="sudo rm -r $HOME/.cache" \
